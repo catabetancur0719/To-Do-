@@ -24,9 +24,9 @@ This project is a standard Todo application allowing users to manage their daily
 
 ## Tech Stack
 
-*   [React](https://reactjs.org/) (v18+)
+*   [React](https://reactjs.org/) (v19+)
 *   [TypeScript](https://www.typescriptlang.org/)
-*   [Tailwind CSS](https://tailwindcss.com/) (v3+)
+*   [Tailwind CSS](https://tailwindcss.com/) (v4+)
 *   [Vite](https://vitejs.dev/) / [Create React App](https://create-react-app.dev/) *(Choose the one you used)*
 *   [Node.js](https://nodejs.org/) (LTS version recommended)
 *   [npm](https://www.npmjs.com/) / [yarn](https://yarnpkg.com/) / [pnpm](https://pnpm.io/) *(Choose your package manager)*
