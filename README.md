@@ -9,8 +9,8 @@ This project is a standard Todo application allowing users to manage their daily
 *   **React v19+:** For building the user interface components.
 *   **TypeScript:** For adding static typing to improve code quality and maintainability.
 *   **Tailwind CSS 4+:** For utility-first styling, enabling rapid UI development.
-*   **State Management:** Mention if you used Context API, Zustand, Redux, or just local component state.
-*   **(Optional) Local Storage:** Mention if tasks persist across browser sessions.
+*   **State Management:** Here we will be using local component state.
+*   **React Router 7.5:** For manage routes in app  
 
 ## Features
 
